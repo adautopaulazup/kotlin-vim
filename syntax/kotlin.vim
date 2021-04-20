@@ -109,7 +109,7 @@ hi def link ktInclude Include
 
 hi def link ktType Identifier
 hi def link ktModifier Keyword
-hi def link ktStructure Structure
+hi def link ktStructure Identifier
 hi def link ktTypedef Identifier
 
 hi def link ktBoolean Boolean
