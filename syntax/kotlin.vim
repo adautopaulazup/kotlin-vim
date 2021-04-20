@@ -107,10 +107,10 @@ hi def link ktReservedKeyword Error
 
 hi def link ktInclude Include
 
-hi def link ktType Type
+hi def link ktType Identifier
 hi def link ktModifier Keyword
 hi def link ktStructure Structure
-hi def link ktTypedef Typedef
+hi def link ktTypedef Identifier
 
 hi def link ktBoolean Boolean
 hi def link ktConstant Constant
