@@ -139,6 +139,7 @@ hi def link ktNumber Number
 hi def link ktFloat Float
 
 hi def link ktExclExcl Special
-hi def link ktArrow Structure
+hi def link ktArrow keyworkd
+"hi def link ktArrow Structure
 
 let b:current_syntax = 'kotlin'
