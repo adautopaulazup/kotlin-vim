@@ -108,7 +108,7 @@ hi def link ktReservedKeyword Error
 hi def link ktInclude Include
 
 hi def link ktType Type
-hi def link ktModifier StorageClass
+hi def link ktModifier Keyword
 hi def link ktStructure Structure
 hi def link ktTypedef Typedef
 
@@ -139,7 +139,6 @@ hi def link ktNumber Number
 hi def link ktFloat Float
 
 hi def link ktExclExcl Special
-hi def link ktArrow keyworkd
-"hi def link ktArrow Structure
+hi def link ktArrow Keyword
 
 let b:current_syntax = 'kotlin'
